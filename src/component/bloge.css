@@ -1,0 +1,31 @@
+.blog{
+    display:flex;
+}
+
+
+.header{
+ 
+ height: 200px;
+ background-color:beige;
+ 
+}
+.title{
+    
+    text-indent: 100px;
+   
+    
+}
+.img{ margin-top: 40px;
+    margin-left: 100px;
+}
+
+.post{
+   flex: 9;
+   margin-top: 40px;
+    margin-left: 100px;
+     
+}
+
+.sidebar{
+    flex:3;
+}
